@@ -27,8 +27,8 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h2> <br> 
     <div align= "center">
-        <p>✉Email: <a  href="mailto:﻿"dpsk08270@gmail.com">dpsk08270@gmail.com</a></p>    
-        <p>📚Portfolio:<a href="https://github.com/yn3048/portfolio"> Yeana's Portfolio</a></p>
+        <h4>✉Email:<a href="mailto:﻿"dpsk08270@gmail.com"> dpsk08270@gmail.com</a></h4>  
+        <h4>📚Portfolio:<a href="https://github.com/yn3048/portfolio"> Yeana's Portfolio</a></h4>
     </div>  <br> 
     <div align= "center">  </div> 
     </div>
