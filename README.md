@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♀️ Introduction </h2>  
-    <div style="font-weight: bold; font-size: 17px; text-align: left; color: #282d33;"> 새로운 분야를 도전하는 것을 좋아하며, 꾸준히 성장하는 신입 개발자 이예나입니다. </div> 
+    <div style="font-weight: bold; font-size: 17px; text-align: left; color: #282d33;"> 새로운 분야를 도전하는 것을 좋아하며, 꾸준히 성장하는 신입 개발자 이예나입니다. </div>
+    <p>Portfolio:<a href="#"></a></p>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
