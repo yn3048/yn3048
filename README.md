@@ -4,7 +4,8 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♀️ Introduction </h2>  
     <div> <h4>새로운 분야를 도전하는 것을 좋아하며, 꾸준히 성장하는 신입 개발자 이예나입니다. </h4></div>
-    <p>Portfolio:&nbsp  <a href="https://github.com/yn3048/portfolio">Yeana's Portfolio</a></p>
+    <h4>Portfolio:<a href="https://github.com/yn3048/portfolio"> Yeana's Portfolio</a></h4>
+    <br>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -25,8 +26,8 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:dpsk08270@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpsk08270@gmail.com"> </a>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:dpsk08270@gmail.com> <img src="https://img.shields.io/badge/Gmail-7371ec?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dpsk08270@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
